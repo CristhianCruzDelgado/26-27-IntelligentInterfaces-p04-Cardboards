@@ -1,6 +1,6 @@
 # Cardboards
 
-## SDK y APK
+## SDK and APK
 
 ### Software Development Kit (SDK)
 
